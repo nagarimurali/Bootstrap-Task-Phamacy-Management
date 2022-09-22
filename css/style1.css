@@ -1,0 +1,54 @@
+div {
+    font-family: sans-serif;
+}
+
+#onelinetable td:nth-child(1) {
+    font-family: sans-serif;
+    color: #737373;
+    font-size: 12px;
+    font-weight: 500;
+    width: 175px;
+}
+
+#onelinetable td:nth-child(3) {
+    text-align: justify;
+    font-size: 12px;
+    font-weight: 552;
+    color: #1a181ab8;
+    font-style: unset;
+    ;
+}
+
+.patient {
+    font-family: system-ui;
+    font-size: 19px;
+    padding-bottom: 9px;
+    margin-top: -12px;
+}
+
+.prescription {
+    font-family: system-ui;
+    font-size: 18px;
+    padding-bottom: 8px
+}
+
+#bad-pill {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+#prescriptiontable {
+    font-size: 16px;
+    font-family: system-ui;
+    /* font-weight: 300; */
+    color: #616362;
+}
+
+#ticket {
+    font-size: 18px;
+    font-family: system-ui;
+}
+#dropdown {
+    cursor: pointer;
+}
